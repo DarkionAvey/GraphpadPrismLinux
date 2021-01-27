@@ -1,5 +1,5 @@
 # GraphpadPrismLinux
-This is an install script for [Graphpad Prism](https://www.graphpad.com/scientific-software/prism/) on Linux via [PlayOnLinux](https://www.playonlinux.com)
+This is an installation script for [Graphpad Prism](https://www.graphpad.com/scientific-software/prism/) on Linux via [PlayOnLinux](https://www.playonlinux.com)
 
 
 ![Photoshop CC Screenshot](https://raw.githubusercontent.com/DarkionAvey/GraphpadPrismLinux/main/screenshot.png)
